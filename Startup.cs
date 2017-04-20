@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace AdamPineDotMe
+namespace WebApplicationBasic
 {
     public class Startup
     {
