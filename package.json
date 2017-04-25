@@ -1,6 +1,6 @@
 {
-  "name": "WebApplicationBasic",
-  "version": "0.0.0",
+  "name": "AdamPineDotMe",
+  "version": "0.0.1",
   "dependencies": {
     "@angular/common": "^2.4.5",
     "@angular/compiler": "^2.4.5",
